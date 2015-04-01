@@ -1,3 +1,4 @@
+
 - motor
 	- stator - electromagnets
 	- core
